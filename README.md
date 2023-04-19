@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01.svg?style=flat-square&logo=astro&logoColor=white)
