@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magnum-zx
-- 👀 I’m interested in front-end dev and web3
-- 🌱 I’m currently learning Astro to build my blog
+- 👀 I’m interested in front-end and web3
+- 🌱 I’m currently learning Astro to build my blog, and contributing to Astro Docs(zh-cn)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
