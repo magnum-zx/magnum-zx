@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end dev
 - 🌱 I’m currently learning Vue3, and contributing to Astro Docs(zh-cn)
 
-💞️ Plan to do: 
+Plan to do: 
 - back-end stack(Nods.js, mongodb/mysql, Restful API/GraphQL API)
 - learning CLI development
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![vercel](https://img.shields.io/badge/-vercel-%2300C7B7?style=flat-square&logo=vercel&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-vercel-%2300C7B7?style=flat-square&logo=vercel&logoColor=ffffff)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
