@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @magnum-zx
-- 👀 I’m interested in front-end and web3
-- 🌱 I’m currently learning Astro to build my blog, and contributing to Astro Docs(zh-cn)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front-end dev
+- 🌱 I’m currently learning Vue3, and contributing to Astro Docs(zh-cn)
+
+💞️ Plan to do: 
+- back-end stack(Nods.js, mongodb/mysql, Restful API/GraphQL API)
+- learning CLI development
 
 <!---
 magnum-zx/magnum-zx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
